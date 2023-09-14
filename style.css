@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    background-color: #283149;
+  }
+  
+  h1 {
+    
+    font-size: 4.5rem;
+        color: #ffffff;
+        text-shadow:
+        0 0 2px #b7d4e7,
+        0 0 4px #bdb3db,
+        0 0 6px #979ac3,
+        0 0 10px #6b72ad,
+        0 0 45px #5a6fa0,
+        0 0 50px  #49488a,
+        0 0 70px #3e3d85,
+        0 0 80px #432c75;
+    
+      }
+  
+  .s1 {
+  background-image: url("Images/s1.png");
+  border:none;
+  background-color:#283149;
+  position: relative;
+  left:65px;
+ 
+  bottom:10px;
+  } 
+  .s2 {
+    background-image: url("Images/s2.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    left:60px;
+  }
+  .s3 {
+    background-image: url("Images/s3.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    top:120px;
+  }
+  
+  .s4 {
+    background-image: url("Images/s4.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    top:100px;
+  }
+  
+  .s5 {
+    background-image: url("Images/s5.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    top:100px;
+  }
+  .s6 {
+    background-image: url("Images/s6.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    top:120px;
+  }
+  .s7 {
+    background-image: url("Images/s7.png");
+    border:none;
+    background-color:#283149;
+    position: relative;
+    top:100px;
+  }
+  button {
+margin:1px;
+  }
